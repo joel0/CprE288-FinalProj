@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['calc_5fservo_5focr_5fticks',['calc_servo_OCR_ticks',['../scan_8c.html#a4aad35c9daa13e3ed4730fd060bfed29',1,'scan.c']]],
+  ['capacity',['capacity',['../structoi__t.html#a84f2bdc6865e9aeffbb0752612f74074',1,'oi_t']]],
+  ['cargo_5fbay_5fbaud',['cargo_bay_baud',['../structoi__t.html#ad2b99f1f7848c46bebe85ceecf6c63f1',1,'oi_t']]],
+  ['cargo_5fbay_5fio0',['cargo_bay_io0',['../structoi__t.html#a213bf655fd3aec240c486dfe3cc34514',1,'oi_t']]],
+  ['cargo_5fbay_5fio1',['cargo_bay_io1',['../structoi__t.html#a2bb98606d61b0e18107d4b13686e5c0c',1,'oi_t']]],
+  ['cargo_5fbay_5fio2',['cargo_bay_io2',['../structoi__t.html#a6fe361dee978a144632dfca5e93e791a',1,'oi_t']]],
+  ['cargo_5fbay_5fio3',['cargo_bay_io3',['../structoi__t.html#a60e592f100be07b6db432ba70f59c5af',1,'oi_t']]],
+  ['cargo_5fbay_5fvoltage',['cargo_bay_voltage',['../structoi__t.html#a47f340349ee733fe81d7d5a6a5397d57',1,'oi_t']]],
+  ['charge',['charge',['../structoi__t.html#af021bc9cdad4bf3a1793d242f314b498',1,'oi_t']]],
+  ['charging_5fstate',['charging_state',['../structoi__t.html#ae5f22bf498c302589ab9723a12214990',1,'oi_t']]],
+  ['cliff_5ffrontleft',['cliff_frontleft',['../structoi__t.html#ad6189a6c58988a2e6a9bb47651f675dc',1,'oi_t']]],
+  ['cliff_5ffrontleft_5fsignal',['cliff_frontleft_signal',['../structoi__t.html#a08b1a25a541542e12c9b005c5f521da1',1,'oi_t']]],
+  ['cliff_5ffrontright',['cliff_frontright',['../structoi__t.html#ac47905c2ddb4c9ffc6bdc72b75231c37',1,'oi_t']]],
+  ['cliff_5ffrontright_5fsignal',['cliff_frontright_signal',['../structoi__t.html#aa354c7ac9aae5adc899aa5821f5200e0',1,'oi_t']]],
+  ['cliff_5fl',['CLIFF_L',['../movement_8h.html#a2cdcb5d6bd7694768a4a8978aaf40640a7aae617c3e83658ee83dd76a1351bd8c',1,'movement.h']]],
+  ['cliff_5fleft',['cliff_left',['../structoi__t.html#ae6bc5aecd8f52076a0cf10f39ac0e508',1,'oi_t']]],
+  ['cliff_5fleft_5fsignal',['cliff_left_signal',['../structoi__t.html#acc6c4c13a6e9bbafba26d9f260b8f932',1,'oi_t']]],
+  ['cliff_5fr',['CLIFF_R',['../movement_8h.html#a2cdcb5d6bd7694768a4a8978aaf40640a6411870adcbeca81233bde4b9868fcf0',1,'movement.h']]],
+  ['cliff_5fright',['cliff_right',['../structoi__t.html#aaeb3aa5ab8fe93603d8b61425e1b20a0',1,'oi_t']]],
+  ['cliff_5fright_5fsignal',['cliff_right_signal',['../structoi__t.html#a6369ea06a2a7a2e07be640259b2cb4f9',1,'oi_t']]],
+  ['color',['COLOR',['../movement_8h.html#a2cdcb5d6bd7694768a4a8978aaf40640a7a5ecb5193db2d5f258ae1abd33714b9',1,'movement.h']]],
+  ['current',['current',['../structoi__t.html#a064dcfed798db86d301ed5ce7581c393',1,'oi_t']]]
+];

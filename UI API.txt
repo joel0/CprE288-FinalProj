@@ -1,0 +1,26 @@
+Init
+<p
+
+Read sensors
+<e
+>e,b-left,b-right,cliff_l,cliff_fl,cliff_fr,cliff_r,cliff_color_l,cliff_color_fl,cliff_color_fr,cliff_color_r,dist\0
+
+Move
+<m val
+>m,val,reason\0
+
+Move ignore sensors
+<i val
+>m,val,reason\0
+
+Rotate
+<r val
+>r,val\0
+
+Scan
+<c
+>c,dist,angular_loc,width\0
+>c,dist,angular_loc,width\0
+
+Reached the end zone
+<o
